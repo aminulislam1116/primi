@@ -1,0 +1,30 @@
+.a{padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(218, 245, 245);
+
+}
+.b{
+    border: 1px solid rgb(241, 177, 57);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.c{
+    border: 1px solid rgb(241, 177, 57);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.d{
+    border: 1px solid rgb(95, 3, 49);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 3px;
+}
+
+.e{
+    border: 1px solid rgb(95, 3, 49);
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
